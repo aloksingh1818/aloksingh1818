@@ -108,11 +108,7 @@ Chegg India | *April 2021 - Present*
 
 ---
 
-### 🌐 GeeksforGeeks Profile
 
-[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=alok85820018)](https://auth.geeksforgeeks.org/user/alok85820018/practice/)
-Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok85820018/)** to see my coding contributions and problem-solving approach on a wide range of computer science topics.
 
 ---
 
@@ -124,5 +120,21 @@ Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok8582
 - **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
 
 ---
+### 🏆 LeetCode Profile
 
-![](https://leetcard.jacoblin.cool/Aloksingh18?ext=heatmap)
+As a dedicated problem solver, I constantly challenge myself with data structure and algorithm problems on **LeetCode**, one of the most competitive platforms for coding practice. I have solved numerous problems across a variety of difficulty levels, helping me hone my skills in **algorithms**, **data structures**, and **optimizing code performance**.
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Aloksingh18/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aloksingh18?ext=heatmap)
+
+By practicing regularly, I stay up-to-date with the latest challenges in the coding world, keeping myself prepared for competitive coding contests and technical interviews. You can view my progress below or visit my **LeetCode profile** for more details.
+
+
+### 🌐 GeeksforGeeks Profile
+
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=alok85820018)](https://auth.geeksforgeeks.org/user/alok85820018/practice/)
+
+
+Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok85820018/)** to see my coding contributions and problem-solving approach on a wide range of computer science topics.
