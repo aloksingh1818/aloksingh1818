@@ -1,4 +1,9 @@
 ## Hi there 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">
+    <h3>Hey, I’m Alok! Nice to meet you!</h3>
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+</div>
 # 👨‍💻 Alok Kumar
 
 **Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Full Stack Developer**
@@ -13,11 +18,7 @@
 ### 🚀 About Me
 I am a passionate **Computer Science** student specializing in **Data Science** from Haldia Institute of Technology. With a strong foundation in **machine learning**, **full-stack development**, and **data analysis**, I am committed to developing solutions that make a difference. Through my role as a **Subject Matter Expert** at Chegg India, I have solved over 5000 challenging computer science and calculus problems with a high accuracy rate, refining my problem-solving and troubleshooting abilities.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">
-    <h3>Hey, I’m Alok! Nice to meet you!</h3>
-    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
-</div>
+
 
 ---
 
