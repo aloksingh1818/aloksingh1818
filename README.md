@@ -20,30 +20,51 @@ I am a passionate **Computer Science** student specializing in **Data Science** 
 
 ---
 
+### 🛠️ Experience
+
+**Subject Matter Expert (Computer Science & Calculus)**  
+Chegg India | *April 2021 - Present*  
+- Solved over 5000 computer science and calculus problems for students worldwide.
+- Achieved an accuracy rating of over 85%.
+
+---
+### 🎓 Education
+
+**Bachelor of Technology in Computer Science (Data Science)**  
+Haldia Institute of Technology, West Bengal  
+*CGPA:* 8.31/10 (2021 - Present)
+
+**Senior Secondary (Pre-Engineering)**  
+Happy Walley School, Bhagalpur, Bihar  
+*Percentage:* 72% (2020)
+
+---
+
+
 ### 🎯 Key Skills
 
 #### Languages & Frameworks
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python" height="50"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="50"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50"/>
-    <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="50"/>
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS" height="50"/>
+    <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python" height="40"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="40"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS" height="40"/>
 </p>
 
 #### Libraries & Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/>
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="50"/>
-    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="50"/>
-    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy" alt="Numpy" height="50"/>
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" height="50"/>
-    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="50"/>
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL" height="50"/>
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/>
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40"/>
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="40"/>
+    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy" alt="Numpy" height="40"/>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" height="40"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="40"/>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL" height="40"/>
 </p>
 
 
@@ -70,26 +91,6 @@ I am a passionate **Computer Science** student specializing in **Data Science** 
 
 ---
 
-### 🎓 Education
-
-**Bachelor of Technology in Computer Science (Data Science)**  
-Haldia Institute of Technology, West Bengal  
-*CGPA:* 8.31/10 (2021 - Present)
-
-**Senior Secondary (Pre-Engineering)**  
-Happy Walley School, Bhagalpur, Bihar  
-*Percentage:* 72% (2020)
-
----
-
-### 🛠️ Experience
-
-**Subject Matter Expert (Computer Science & Calculus)**  
-Chegg India | *April 2021 - Present*  
-- Solved over 5000 computer science and calculus problems for students worldwide.
-- Achieved an accuracy rating of over 85%.
-
----
 
 ### 📜 Certifications
 
@@ -114,14 +115,7 @@ Chegg India | *April 2021 - Present*
 
 ---
 
-### 💡 Let's Connect!
 
-- **LinkedIn:** [Alok Kumar](https://www.linkedin.com/in/alok-kumar-119481218)
-- **GitHub:** [aloksingh1818](https://github.com/aloksingh1818)
-- **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/alok85820018/)
-- **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
-
----
 ### 🏆 My Coding Profiles
 
 <div align="center">
@@ -150,4 +144,11 @@ Chegg India | *April 2021 - Present*
     </tr>
   </table>
 </div>
+### 💡 Let's Connect!
 
+- **LinkedIn:** [Alok Kumar](https://www.linkedin.com/in/alok-kumar-119481218)
+- **GitHub:** [aloksingh1818](https://github.com/aloksingh1818)
+- **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/alok85820018/)
+- **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
+
+---
