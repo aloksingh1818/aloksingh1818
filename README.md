@@ -151,12 +151,7 @@ Happy Walley School, Bhagalpur, Bihar
         <img src="https://leetcard.jacoblin.cool/Aloksingh18?ext=heatmap" alt="LeetCode Stats" />
         <br/>
         <p>By practicing regularly, I stay up-to-date with the latest challenges in the coding world, keeping myself prepared for competitive coding contests and technical interviews.
-          
-        <h3>My LeetCode Questions </h3>
-        <a href="https://github.com/aloksingh1818/My-Leetcode-Question">
-
         </p>
-        
       </td>
       <td align="center" style="padding: 10px;">
         <h3>GeeksforGeeks Profile</h3>
