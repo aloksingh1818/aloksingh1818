@@ -58,13 +58,13 @@ Happy Walley School, Bhagalpur, Bihar
 #### Libraries & Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/>
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40"/>
-    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="40"/>
-    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy" alt="Numpy" height="40"/>
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" height="40"/>
-    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="40"/>
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL" height="40"/>
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/>
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="50"/>
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="50"/>
+    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy" alt="Numpy" height="50"/>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" height="50"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="50"/>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL" height="50"/>
 </p>
 
 
@@ -144,6 +144,8 @@ Happy Walley School, Bhagalpur, Bihar
     </tr>
   </table>
 </div>
+---
+---
 ### 💡 Let's Connect!
 
 - **LinkedIn:** [Alok Kumar](https://www.linkedin.com/in/alok-kumar-119481218)
