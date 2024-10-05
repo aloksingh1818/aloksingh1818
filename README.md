@@ -111,7 +111,7 @@ Chegg India | *April 2021 - Present*
 ### 🌐 GeeksforGeeks Profile
 
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<alok85820018>)](https://auth.geeksforgeeks.org/user/<YOUR_USERNAME>/practice/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=alok85820018)](https://auth.geeksforgeeks.org/user/<YOUR_USERNAME>/practice/)
 Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok85820018/)** to see my coding contributions and problem-solving approach on a wide range of computer science topics.
 
 ---
