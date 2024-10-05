@@ -109,7 +109,7 @@ Happy Walley School, Bhagalpur, Bihar
 ### 📜 Certifications
 
 - **[Python Programming Masterclass](https://www.udemy.com/certificate/UC-b2a071d1-0a9b-49aa-ae6a-2f90de73cf7c/)**
-- **Machine Learning A-Z: AI Python & R + ChatGPT**
+- **[Machine Learning A-Z: AI Python & R + ChatGPT](https://www.udemy.com/certificate/UC-d0e17452-e787-4b56-ab61-70b66156e776/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**
 
 ---
 
