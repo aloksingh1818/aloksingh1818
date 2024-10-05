@@ -7,6 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alok-kumar-119481218)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aloksingh1818)
 [![Email Badge](https://img.shields.io/badge/Email-alok85820018@gmail.com-red)](mailto:alok85820018@gmail.com)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
 
 ---
 
@@ -74,11 +75,21 @@ Chegg India | *April 2021 - Present*
 
 ---
 
+### 🌐 GeeksforGeeks Profile
+
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
+
+Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok85820018/)** to see my coding contributions and problem-solving approach on a wide range of computer science topics.
+
+---
+
 ### 💡 Let's Connect!
 
 - **LinkedIn:** [Alok Kumar](https://www.linkedin.com/in/alok-kumar-119481218)
 - **GitHub:** [aloksingh1818](https://github.com/aloksingh1818)
+- **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/alok85820018/)
 - **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
+
 
 
 ![](https://leetcard.jacoblin.cool/Aloksingh18?ext=heatmap)
