@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/Aloksingh18/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" height="20"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/alok85820018/">
+  <a href="https://www.geeksforgeeks.org/user/aloksinghh18/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" height="20"/>
   </a>
 </div>
@@ -154,13 +154,13 @@ Happy Walley School, Bhagalpur, Bihar
       </td>
       <td align="center" style="padding: 10px;">
         <h3>GeeksforGeeks Profile</h3>
-        <a href="https://www.geeksforgeeks.org/user/alok85820018/">
+        <a href="https://www.geeksforgeeks.org/user/aloksinghh18/">
           <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" height="40"/>
         </a>
         <br/>
-        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=alok85820018" alt="GeeksforGeeks Stats" />
+        <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=aloksinghh18" alt="GeeksforGeeks Stats" />
         <br/>
-        <p>Explore my <a href="https://www.geeksforgeeks.org/user/alok85820018/">GeeksforGeeks profile</a> to see my coding contributions and problem-solving approach on a wide range of computer science topics.</p>
+        <p>Explore my <a href="https://www.geeksforgeeks.org/user/aloksinghh18/">GeeksforGeeks profile</a> to see my coding contributions and problem-solving approach on a wide range of computer science topics.</p>
       </td>
     </tr>
   </table>
@@ -172,7 +172,7 @@ Happy Walley School, Bhagalpur, Bihar
 
 - **LinkedIn:** [Alok Kumar](https://www.linkedin.com/in/alok-kumar-119481218)
 - **GitHub:** [aloksingh1818](https://github.com/aloksingh1818)
-- **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/alok85820018/)
+- **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/aloksinghh18/)
 - **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
 
 ---
