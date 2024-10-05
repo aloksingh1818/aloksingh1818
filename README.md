@@ -1,4 +1,13 @@
 # 👨‍💻 Alok Kumar
+### 📄 Download My Resume
+
+If you'd like to download my resume, simply click the button below:
+
+<div align="center">
+  <a href="https://github.com/your_username/your_repo_name/raw/main/Alok_Kumar_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download">
+  </a>
+</div>
 
 **<h3>Computer Science Undergraduate | Machine Learning Enthusiast | Full Stack Developer | Data Analytics</h3>**
 
