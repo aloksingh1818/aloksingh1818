@@ -2,10 +2,24 @@
 
 **Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Full Stack Developer**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alok-kumar-119481218)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aloksingh1818)
-[![Email Badge](https://img.shields.io/badge/Email-alok85820018@gmail.com-red)](mailto:alok85820018@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/alok-kumar-119481218">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://github.com/aloksingh1818">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" height="40"/>
+  </a>
+  <a href="mailto:alok85820018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alok85820018@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" height="40"/>
+  </a>
+  <a href="https://leetcode.com/Aloksingh18/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/alok85820018/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" height="40"/>
+  </a>
+</div>
+
 
 ---
 
