@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 👨‍💻 Alok Kumar
 
 **Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Full Stack Developer**
@@ -14,9 +13,16 @@
 ### 🚀 About Me
 I am a passionate **Computer Science** student specializing in **Data Science** from Haldia Institute of Technology. With a strong foundation in **machine learning**, **full-stack development**, and **data analysis**, I am committed to developing solutions that make a difference. Through my role as a **Subject Matter Expert** at Chegg India, I have solved over 5000 challenging computer science and calculus problems with a high accuracy rate, refining my problem-solving and troubleshooting abilities.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">
+    <h3>Hey, I’m Alok! Nice to meet you!</h3>
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+</div>
+
 ---
 
 ### 🎯 Key Skills
+
 - **Programming Languages:** C++, Python, DSA in C++
 - **Data Science:** Machine Learning, Reinforcement Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn
 - **Data Analysis:** Numpy, Pandas, Matplotlib, Data Cleaning, Data Visualization, Power BI
@@ -70,8 +76,13 @@ Chegg India | *April 2021 - Present*
 
 ### 📈 GitHub Stats
 
-![Alok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aloksingh1818&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh1818&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aloksingh1818&show_icons=true&theme=radical" alt="Alok's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloksingh1818&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh1818&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
