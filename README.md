@@ -24,26 +24,28 @@ I am a passionate **Computer Science** student specializing in **Data Science** 
 
 #### Languages & Frameworks
 
+
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3" alt="CSS">
+    <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python" height="50"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" height="50"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50"/>
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="50"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS" height="50"/>
 </p>
 
 #### Libraries & Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy" alt="Numpy">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" alt="Pandas">
-    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=flat&logo=matplotlib&logoColor=black" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql" alt="SQL">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/>
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="50"/>
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="50"/>
+    <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy" alt="Numpy" height="50"/>
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" height="50"/>
+    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" height="50"/>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql" alt="SQL" height="50"/>
 </p>
+
 
 #### Soft Skills
 
