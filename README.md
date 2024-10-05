@@ -4,7 +4,7 @@
 If you'd like to download my resume, simply click the button below:
 
 <div align="center">
-  <a href="https://github.com/your_username/your_repo_name/raw/main/Alok_Kumar_Resume.pdf" download>
+  <a href="https://github.com/aloksingh1818/resume/blob/main/Alok_Kumar.pdf" download>
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download">
   </a>
 </div>
