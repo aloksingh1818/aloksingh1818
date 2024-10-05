@@ -1,5 +1,3 @@
-
-
 # 👨‍💻 Alok Kumar
 
 **Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Full Stack Developer**
@@ -10,6 +8,7 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/user/alok85820018/)
 
 ---
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">
     <h3>Hey, I’m Alok! Nice to meet you!</h3>
@@ -19,18 +18,39 @@
 ### 🚀 About Me
 I am a passionate **Computer Science** student specializing in **Data Science** from Haldia Institute of Technology. With a strong foundation in **machine learning**, **full-stack development**, and **data analysis**, I am committed to developing solutions that make a difference. Through my role as a **Subject Matter Expert** at Chegg India, I have solved over 5000 challenging computer science and calculus problems with a high accuracy rate, refining my problem-solving and troubleshooting abilities.
 
-
-
 ---
 
 ### 🎯 Key Skills
 
-- **Programming Languages:** C++, Python, DSA in C++
-- **Data Science:** Machine Learning, Reinforcement Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn
-- **Data Analysis:** Numpy, Pandas, Matplotlib, Data Cleaning, Data Visualization, Power BI
-- **Full-Stack Development:** HTML, CSS, JavaScript, Node.js, Tailwind CSS
-- **Database Management:** SQL, DBMS
-- **Soft Skills:** Time Management, Problem Solving, Teamwork
+#### Languages & Frameworks
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3" alt="CSS">
+</p>
+
+#### Libraries & Tools
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy" alt="Numpy">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" alt="Pandas">
+    <img src="https://img.shields.io/badge/-Matplotlib-FFDD44?style=flat&logo=matplotlib&logoColor=black" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql" alt="SQL">
+</p>
+
+#### Soft Skills
+
+- **Time Management**
+- **Problem Solving**
+- **Teamwork**
+- **Troubleshooting**
 
 ---
 
@@ -103,6 +123,6 @@ Explore my **[GeeksforGeeks profile](https://www.geeksforgeeks.org/user/alok8582
 - **GeeksforGeeks:** [Alok Kumar](https://www.geeksforgeeks.org/user/alok85820018/)
 - **Email:** [alok85820018@gmail.com](mailto:alok85820018@gmail.com)
 
-
+---
 
 ![](https://leetcard.jacoblin.cool/Aloksingh18?ext=heatmap)
