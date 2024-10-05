@@ -1,20 +1,10 @@
-# 👨‍💻 Alok Kumar
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h3>👨‍💻 Alok Kumar</h3>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h3>📄 Download My Resume</h3>
-        <a href="https://github.com/aloksingh1818/resume/blob/main/Alok_Kumar.pdf" download>
-          <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" height="40"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>👨‍💻 Alok Kumar</h2>
+  <a href="https://github.com/aloksingh1818/resume/blob/main/Alok_Kumar.pdf" download>
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Download" height="40"/>
+  </a>
 </div>
+
 
 
 **<h3>Computer Science Undergraduate | Machine Learning Enthusiast | Full Stack Developer | Data Analytics</h3>**
