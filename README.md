@@ -1,6 +1,6 @@
 # 👨‍💻 Alok Kumar
 
-**<h2>Computer Science (Data Science) Undergraduate | Machine Learning Enthusiast | Full Stack Developer | Data Analytics</h2>**
+**<h2>Computer Science  Undergraduate | Machine Learning Enthusiast | Full Stack Developer | Data Analytics</h2>**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alok-kumar-119481218">
