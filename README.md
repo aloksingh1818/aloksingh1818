@@ -128,8 +128,10 @@ Happy Walley School, Bhagalpur, Bihar
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aloksingh1818&theme=radical" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh1818&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksingh1818&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 
+</div>
+//
 ---
 
 
