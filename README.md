@@ -133,16 +133,10 @@ Happy Walley School, Bhagalpur, Bihar
   <br/>
   
   <!-- GitHub Contributions Heatmap -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=aloksingh1818&theme=radical" alt="GitHub Contributions" />
-
-  <!-- GitHub Contributions per Month and Day -->
-  <br/>
-  <img src="https://github-contributions-stats.vercel.app/api/monthly-contributions?username=aloksingh1818&theme=radical" alt="Monthly Contributions" />
-  <br/>
-  <img src="https://github-contributions-stats.vercel.app/api/daily-contributions?username=aloksingh1818&theme=radical" alt="Daily Contributions" />
+  <img src="https://ghchart.rshah.org/aloksingh1818" alt="GitHub Contributions" />
 </div>
 
-//
+
 ---
 
 
