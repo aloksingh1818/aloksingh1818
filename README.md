@@ -6,7 +6,6 @@
 </div>
 
 
-
 **<h3>Computer Science Undergraduate | Machine Learning Enthusiast | Full Stack Developer | Data Analytics</h3>**
 
 <div align="center">
